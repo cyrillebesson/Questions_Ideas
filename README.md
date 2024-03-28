@@ -1,7 +1,7 @@
 # Questions / Ideas
 I'll just add questions or ideas I have and if you want to work on it with me, let me know 😊
 
-## 1 Math Adding Suit ?
+## #1 Math Adding Suit ?
 I noticed that if you take a long number like 12345 and you separate it in multiple pieces that you add together and keep going, you'll always end with the same number.
 
 example :
