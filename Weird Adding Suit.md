@@ -12,4 +12,5 @@ example :
 12 + 34 + 5 = 51 -> 5 + 1 = 6
 
 Does it have a name ?
+<br>
 Is it usefull ?
