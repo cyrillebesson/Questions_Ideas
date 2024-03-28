@@ -1,4 +1,4 @@
-## #1 Weird Adding Suit ?
+## Weird Adding Suit ?
 I noticed that if you take a long number like 12345 and you separate it in multiple pieces that you add together and keep going, you'll always end up with the same number.
 
 example :
