@@ -14,3 +14,5 @@ example :
 Does it have a name ?
 <br>
 Is it usefull ?
+
+Yes it's called the "Digital Root" it's very useful in science, finance and engineering.
